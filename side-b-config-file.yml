@@ -177,7 +177,7 @@ metadata:
   labels:
     app: wordpress
 spec:
-  host: wordpress-demo-wordpress.apps.ocp-vmw.cie.netapp.com
+  host: wordpress-demo-wordpress.apps.ocp-vmware2.cie.netapp.com
   to:
     kind: Service
     name: wordpress
